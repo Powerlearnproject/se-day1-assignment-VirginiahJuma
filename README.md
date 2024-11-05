@@ -47,6 +47,7 @@ Waterfall Methodology
 Characteristics: Linear and sequential process with defined phases (Requirements, Design, Implementation, Testing, Deployment, Maintenance). Emphasizes comprehensive documentation and has a fixed scope.
 Advantages: Clear structure, predictable timelines, and best suited for projects with stable requirements.
 Appropriate Scenarios: Ideal for regulated industries (e.g., healthcare, finance) and well-defined projects (e.g., simple internal tools)
+
 Agile Methodology
 Characteristics: Iterative and incremental process with development cycles called sprints. Focuses on flexibility, continuous feedback, and collaboration.
 Advantages: Faster delivery, adaptability to changing requirements, and improved user satisfaction through continuous involvement.
@@ -54,6 +55,7 @@ Appropriate Scenarios: Best for dynamic environments (e.g., tech startups) and u
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 Software Developer
 Role: Responsible for designing, coding, and implementing software applications.
 Responsibilities:
@@ -83,6 +85,7 @@ Ensure that the project is completed on time and within budget.
 
 
 .Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each
+
 IDEs
 Importance: Enhance productivity by providing features like code completion, syntax highlighting, integrated debugging, and project management.
 Examples:
@@ -95,6 +98,7 @@ Git: A distributed version control system popular for its branching capabilities
 Subversion (SVN): A centralized version control system that tracks changes and supports team collaboration.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 1. Changing Requirements
 Challenge: Frequent changes in project scope can lead to confusion and project delays.
 Strategy: Implement agile practices, such as regular sprint reviews and feedback sessions, to adapt to changes more smoothly.
